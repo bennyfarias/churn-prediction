@@ -45,12 +45,9 @@ Predicting which customers are likely to cancel their credit card subscription u
 3. **Insights & Storytelling**
    - Behavioral patterns (e.g., card usage, credit limit)
    - Impact of income and card type
-   - Profiles of high-risk customers
 
 4. **Modeling**
-   - Baseline model (e.g., Logistic Regression)
-   - More advanced models (Random Forest, XGBoost, etc.)
-   - Handling imbalance (e.g., SMOTE, class weights)
+  -Random Forest
 
 5. **Evaluation**
    - Accuracy, Precision, Recall, F1-score
@@ -107,12 +104,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📬 Contact
 
-- GitHub: [Your GitHub Username]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your email]
-
----
 
 ⭐️ **If you found this project helpful, feel free to give it a star!**
