@@ -27,8 +27,8 @@ Predicting which customers are likely to cancel their credit card subscription u
 
 ## 📁 Dataset
 
-- Public dataset on credit card clients (Kaggle or similar)
-- Target variable: `Attrition_Flag` (churned or not)
+- Public dataset on credit card clients (BankChurners)
+- Credit-Card-Customers-Prediction/main/BankChurners.csv
 
 ---
 
